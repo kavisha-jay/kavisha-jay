@@ -1,4 +1,4 @@
-![logo]([https://github.com/kavisha-jay/kavisha-jay/blob/main/465a3d0703fdd4c804f0dba25f7f5e19.gif](https://github.com/kavisha-jay/kavisha-jay/blob/main/space-nebula-nvidia-recorded.gif))
+z![logo](https://github.com/kavisha-jay/kavisha-jay/blob/main/space-nebula-nvidia-recorded.gif)
 <h1 align="center">Hi 👋, I'm Kaveesha Jayasingha</h1>
 <h3 align="center">🌱 Growing to SE</h3>
 
