@@ -1,5 +1,5 @@
 ![logo](https://github.com/kavisha-jay/kavisha-jay/blob/main/space-nebula-nvidia-recorded.gif)
-<h1 align="center">Hi 👋, I'm Kaveesha Jayasingha</h1>
+<h1 align="center">Hi 👋, I'm Kaveesha Jayasinghe</h1>
 <h3 align="center">🌱 Growing to SE</h3>
 
 <div style="display: flex; flex-direction: row-reverse; align-items: center;">
