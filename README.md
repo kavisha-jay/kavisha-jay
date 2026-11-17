@@ -46,7 +46,13 @@ I'm currently exploring opportunities where I can contribute my technical knowle
 
 **Data Engineering & Analytics**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apache,spark,aws,postgres,mysql" alt="Data Engineering & Analytics" />
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql" alt="AWS, PostgreSQL, MySQL" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
 **Web & Application Development**
