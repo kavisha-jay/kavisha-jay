@@ -1,35 +1,118 @@
-![logo](https://github.com/kavisha-jay/kavisha-jay/blob/main/space-nebula-nvidia-recorded.gif)
-<h1 align="center">Hi 👋, I'm Kaveesha Jayasinghe</h1>
-<h3 align="center">🌱 Growing to SE</h3>
-
-<div style="display: flex; flex-direction: row-reverse; align-items: center;">
-
-  <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavisha-jay&label=Profile%20views&color=0e75b6&style=flat" alt="kavisha-jay" /> </p>
-    <ul>
-      <li>🌱 I’m currently learning <strong>mobile and web application development</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Emotion Based song recommendation project.</strong></li>
-      <li>👨‍💻 All of my projects are available at <a href="https://kavisha-jay.github.io/Portfolio/">https://kavisha-jay.github.io/Portfolio/</a></li>
-      <li>📫 How to reach me <strong>kavishajayasigha90@gmail.com</strong></li>
-    </ul>
-  </div>
-
-</div>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaveesha jayasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveesha jayasingha" height="30" width="40" /></a>
-<a href="https://instagram.com/kaveesha.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveesha.me" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavishajayasing1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavishajayasing1" height="30" width="40" /></a>
+<p align="center">
+  <img src="./banner.png" alt="Kaveesha Jayasinghe — Software Engineering Graduate" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Kaveesha Jayasinghe</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavisha-jay&show_icons=true&locale=en&layout=compact" alt="kavisha-jay" /></p>
+<p align="center">
+  <strong>Software Engineering Graduate | First-Class Honours | Class of 2026</strong><br/>
+  <em>Interested in Data Engineering, Full-Stack Development & Research</em>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavisha-jay&show_icons=true&locale=en" alt="kavisha-jay" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavisha-jay&" alt="kavisha-jay" /></p>
+I'm a Software Engineering graduate from the **University of Westminster**, awarded **First-Class Honours**. I'm passionate about building scalable software solutions, transforming data into meaningful insights, and exploring innovative technologies through research and development.
+
+I'm currently exploring opportunities where I can contribute my technical knowledge, problem-solving abilities, and enthusiasm for continuous learning.
+
+- 🎓 **Education:** BEng (Hons) Software Engineering — University of Westminster
+- 📊 **Interests:** Data Engineering, Data Analytics & Data-Driven Systems
+- 💻 **Development:** Full-Stack Web Applications & Software Engineering
+- 🔬 **Research:** Federated Learning, NLP & Privacy-Preserving Machine Learning
+- 🌱 **Currently Exploring:** Python, SQL, PySpark, Data Pipelines & Cloud Technologies
+- 🤝 **Open to:** Graduate Software Engineering, Data Engineering, Full-Stack Development, Research Assistant and related opportunities.
+- 🌐 **Portfolio:** [Explore my projects](https://kavisha-jay.github.io/Portfolio/)
+- 📫 **Email:** [kavishajayasigha90@gmail.com](mailto:kavishajayasigha90@gmail.com)
+
+---
+
+## 🚀 Areas of Interest
+
+| Area | Interests |
+| :--- | :--- |
+| 📊 **Data Engineering** | ETL/ELT, Data Pipelines, Apache Spark, PySpark, SQL |
+| 💻 **Software Development** | Full-Stack Development, REST APIs, Scalable Applications |
+| 📈 **Data Analytics** | Data Exploration, Visualization, Business Intelligence |
+| 🔬 **Research & Innovation** | Federated Learning, NLP, Privacy-Preserving AI |
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql" alt="Programming Languages" />
+</p>
+
+**Data Engineering & Analytics**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apache,spark,aws,postgres,mysql" alt="Data Engineering & Analytics" />
+</p>
+
+**Web & Application Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,flutter,tailwind" alt="Web & Application Development" />
+</p>
+
+**Development Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" alt="Development Tools & Platforms" />
+</p>
+
+---
+
+## 🔬 Research & Academic Work
+
+### **FedShieldNER — Privacy-Preserving Few-Shot Personal NER with Federated Adapters**
+My final-year research project explored privacy-preserving Named Entity Recognition using Federated Learning, LoRA adapters, and few-shot learning.
+
+The research focused on enabling personalized entity recognition while keeping users' raw notes on-device and sharing model adapter updates instead of private text data.
+
+**Key areas:**
+- Federated Learning
+- Natural Language Processing
+- BERT & LoRA
+- Privacy-Preserving Machine Learning
+
+---
+
+## 📌 Featured Projects
+
+Check out my repositories for projects involving data engineering, analytics, full-stack development, and research.
+
+👉 **[Visit My Portfolio Website](https://kavisha-jay.github.io/Portfolio/)**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/kaveesha-jayasingha">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kavishajayasigha90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kavisha-jay.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always curious. Always learning. Always building.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavisha-jay&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavisha-jay&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavisha-jay&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavisha-jay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
