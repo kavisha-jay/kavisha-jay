@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Kaveesha Jayasinghe — Software Engineering Graduate" width="100%" />
+  <img src="./Cover_image.jpg" alt="Kaveesha Jayasinghe — Software Engineering Graduate" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Kaveesha Jayasinghe</h1>
